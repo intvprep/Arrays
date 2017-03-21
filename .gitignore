@@ -1,2 +1,5 @@
 *.class
 /build/
+.settings
+.classpath
+.project

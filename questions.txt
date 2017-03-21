@@ -1,0 +1,6 @@
+1. Is the array sorted
+2. will it have duplicate elements
+3. will it have negative element
+4. only integers ?
+5. will it contain 0 ?
+6. even/odd integers ?

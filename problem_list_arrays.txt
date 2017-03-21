@@ -1,3 +1,7 @@
 List of problems
-1.How to find the missing number in integer array of 1 to 100
+1. How to find the missing number in integer array of 1 to 100
 2. Largest divisible subset in array
+3. Find the next largest number with same set of digits 324 -> 342
+4. Buy sell Stock to maximize profit.
+5. How to rearrange array in alternating positive and negative number
+6. 
