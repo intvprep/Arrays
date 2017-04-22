@@ -23,7 +23,7 @@ public class DeleteDuplicatesSorted {
 	
 	
 	public static int[] removeDupes(int[] input){
-		
+		System.out.println("## "+Arrays.toString(input));
 		int j = 0;
         int i = 1;
         //return if the array length is less than 2
@@ -37,6 +37,7 @@ public class DeleteDuplicatesSorted {
                 input[++j] = input[i++];
             }   
         }
+        System.out.println("# "+Arrays.toString(input));
         int[] output = new int[j+1];
         for(int k=0; k<output.length; k++){
             output[k] = input[k];
